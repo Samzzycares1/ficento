@@ -1,0 +1,309 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.class1{
+    background-color:  rgb(2, 2, 73);;
+    width: 100%;
+ height: 80px;
+    padding-top: 40px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 40px;
+    margin-top: 11px;
+
+}   
+.current{
+    color: brown;
+}
+a:hover{
+    background-color: yellow;
+    color: brown;
+} 
+.logo{
+    margin-right: 90px;
+    padding-left: 100px;
+}
+.toggle{
+    margin-left: 15px;
+
+}
+.search{
+    margin-left: 50px;
+}
+.div2{
+    width: 100%;
+    height: 600px;
+    background-image: url(..//image/banner-bg.png);
+    background-size: contain;
+    margin-top: -25px;
+    padding-top: 270px;
+    background-repeat: no-repeat;
+    
+}
+.box{
+    width: 1400px;
+    height: 300px;
+    background-color: rgb(74, 74, 100);
+    border-radius: 20px;
+     margin-left: 60px;
+     color: white;
+     text-align: center;
+     padding-top: 15px;
+    
+
+}
+.arrowsec{
+    width: 1400px;
+    height: 150px;
+    margin-top: 80px;
+    margin-left: 60px;
+    
+   
+}
+.arrowleft{
+    height: 60px;
+    width: 50px;
+    align-content: center;
+    background-color:  rgb(2, 2, 73);;
+    padding-left: 20px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.arrow{
+    height: 60px;
+    width: 50px;
+    align-content: center;
+    background-color: white;
+    padding-left: 20px; 
+    border-radius: 50%;
+    float: left;
+    margin-right: 400px;
+       
+}
+h1{
+    font-size: 65px;
+    margin-bottom: -30px;
+    
+}
+H3{
+    font-size: 50px;
+    color: rgb(2, 2, 47);
+    
+    margin-bottom: 20px;
+}
+H5{
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    
+}
+.us{
+    background-color:  rgb(2, 2, 73);;
+    color: white;
+    float: left;
+    width: 250px;
+    height: 70px;
+    font-size: 29px;
+    font-weight: 100;
+    border-radius: 20px;
+}
+
+ 
+
+
+/* About our gym */
+
+.gym{
+width: 100%;
+display: flex;
+}
+.ourgym{
+width: 700px;
+height: 600px;
+background-color:  rgb(2, 2, 73);;
+color: white;
+font-size: 23px;
+padding-top: 20px;
+padding-left: 60px;
+padding-right: 20px;
+
+}
+.aog{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.gympic{
+background-image: url(..//image/about-bg.png);
+height: 620px;
+width: 780px;
+
+}
+.aboutmore{
+    background-color: orange;
+    font-family: 'Times New Roman', 
+    Times, serif;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    width: 250px;
+    height: 60px;
+    border-radius: 20px;
+    
+}
+.footer{
+width: 100%;
+margin-top: 100px;
+    background-color: beige;
+    /* margin-top: 50px; */
+    color: white;
+height: 500px;
+}
+.ab1{
+background-color: rgb(2, 2, 73);
+width: 100%;
+height: 400px;
+padding-top: 100px;
+}
+.abaddress{
+display: flex;
+width: 1500px;
+
+}
+.map{
+    display: flex;
+    margin-left: 70px;
+   
+}
+.map h5{
+    margin-left: 10px;
+    margin-right: 70px;
+    margin-top: 40px;
+}
+.phone h5{
+    margin-left: 10px;
+    margin-right: 150px;
+    margin-top: 40px;
+}
+.email h5{
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.phone{
+    display: flex; 
+}
+.email{
+    display: flex;
+}
+.twitterlogo{
+margin-left: 600px;
+margin-top: 70px;
+
+}
+.twitterlogo img{
+margin-right: 20px;
+}
+.last{
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+.copy{
+font-size: 22px;
+font-weight: 100;
+margin-left: 495px;
+color: white;
+margin-top: 70px;
+}
+
+
+/* contact us */
+.p{
+
+width: 100%;
+height: 400px;
+text-align: center;
+
+    color: black;
+    margin-top: -35px;
+    padding-top: 30px;
+}
+.ph{
+    text-decoration: underline navy;
+    font-size: 50px;
+}
+form{
+    width: 100%;
+    height: 800px;
+    background-image: url(..//image/contact-bg.png);
+margin-bottom: -140px;
+}
+input{
+    margin-left: 50px;
+    width: 600px;
+    height: 70px;
+    border: none;
+    border-bottom: 2px solid white;
+    background:none;    
+}
+h2{
+    padding-top: 20px;
+    margin-left: 70px;
+    color: white;
+
+}
+.con{
+margin-top: 20px;
+margin-left: 70px;
+height: 50px;
+width: 100px;
+background-color: rgb(2, 2, 73);;
+color: white;
+border: none;
+}
+
+/* package */
+.packagetable{
+    width: 1300px;
+    height: 500px;
+    margin-left: 140px;
+    background-color:  rgb(2, 2, 73);;
+    border-collapse: collapse;
+    color: white;
+      border-radius: 10px;
+}
+td{
+        text-align: center;
+        border-right: 60px solid white;
+      
+}
+
+
+/* training */
+.trainingpic{
+width: 1500px;
+/* padding-left: 20px; */
+
+}
+.trainingtable{
+/* margin: auto; */
+margin-left: 30px;
+margin-right: 10px;
+width: 1000px;
+padding-left: 5px;
+}
+.trainingtext{
+    font-size: 35px;
+   
+}
+.traininghint{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
